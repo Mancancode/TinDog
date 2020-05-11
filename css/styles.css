@@ -52,7 +52,7 @@ p{
 /* title  */
 
 #title{
-    background-color: coral;
+    background-color: #511845;
     color: #fff;
     padding-bottom: 12%;
 }
@@ -99,7 +99,7 @@ p{
 }
 
 .icon{
-    color: coral;
+    color: #ff5722;
     margin-bottom: 1rem;   
 }
 .icon:hover{
@@ -162,7 +162,7 @@ p{
 /* Call to Action */
 
 #cta{
-    background-color: coral;
+    background-color: #511845;
     color:#fff ;
     text-align: center;
     padding: 7% 15%;
